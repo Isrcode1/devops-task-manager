@@ -2,6 +2,12 @@
 
 A simple command-line task manager built with Python.
 
+## Features
+- Add tasks
+- List all tasks
+- Complete a task
+- Delete a task
+
 ## Installation
 ```bash
 git clone <your-repo-url>
